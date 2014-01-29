@@ -1,0 +1,21 @@
+html {
+  padding: 50px;
+  font-family: "Helvetica";
+  width: 100%;
+}
+html .btn {
+  background: #ff0;
+  padding: 15px;
+  display: inline-block;
+  border-radius: 10px;
+  box-shadow: 0 0 2px #000;
+  border: 1px solid #aaa;
+}
+html .btn(id="2") {
+  background: #00f;
+  padding: 50px;
+  display: inline-block;
+  border-radius: 10px;
+  box-shadow: 0 0 2px #000;
+  border: 5px solid #aaa;
+}
